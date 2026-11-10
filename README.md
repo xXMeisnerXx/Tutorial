@@ -13,7 +13,7 @@ español y un solo ejemplo listo para ejecutar.
 
 Recorrido de 5 minutos por las 9 secciones del notebook, ejecutando los ejemplos principales.
 
-**[Ver el video explicativo (5 min)](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)**
+**[Ver el video explicativo (5 min)]([https://youtu.be/BjERH5tkXQ0])**
 
 <!--
 Opcional, solo para videos de YouTube: una miniatura que abre el video al hacer clic.
