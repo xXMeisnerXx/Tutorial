@@ -1,5 +1,4 @@
-# Tutorial de Python para principiantes · Parte 1
-
+# Tutorial de Python para principiantes
 **Variables, tipos de datos y estructuras**
 
 Notebook de estudio basado en las sesiones 3 y 4 del curso. Cada función tiene una explicación corta en
@@ -70,8 +69,3 @@ El tutorial solo usa Python estándar: no necesita librerías externas.
   *"Quita el # para ver el error"*. Así **Run All** no se detiene a mitad del notebook.
 - Varias celdas usan variables creadas en celdas anteriores. Si saltas una, puedes recibir un
   `NameError`.
-
-## Siguiente parte
-
-**Parte 2: control de flujo, funciones y módulos.** Cubre `if` / `elif` / `else`, ciclos `for`,
-`range()`, `enumerate()`, `zip()`, comprensiones, funciones (type hints, docstrings y alcance) y módulos.
