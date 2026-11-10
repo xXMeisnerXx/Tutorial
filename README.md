@@ -1,4 +1,5 @@
 # Tutorial de Python para principiantes
+
 **Variables, tipos de datos y estructuras**
 
 Notebook de estudio basado en las sesiones 3 y 4 del curso. Cada función tiene una explicación corta en
@@ -7,6 +8,19 @@ español y un solo ejemplo listo para ejecutar.
 **Autor:** Felipe Giraldo Zapata
 
 ---
+
+## Video explicativo
+
+Recorrido de 5 minutos por las 9 secciones del notebook, ejecutando los ejemplos principales.
+
+**[Ver el video explicativo (5 min)](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)**
+
+<!--
+Opcional, solo para videos de YouTube: una miniatura que abre el video al hacer clic.
+Reemplaza ID_DEL_VIDEO por el código que va después de "v=" en el enlace y quita estas marcas de comentario.
+
+[![Video explicativo](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+-->
 
 ## Contenido
 
@@ -43,8 +57,8 @@ El tutorial solo usa Python estándar: no necesita librerías externas.
 1. Clona el repositorio y entra en la carpeta:
 
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    cd tu-repositorio
+    git clone https://github.com/xXMeisnerXx/Tutorial.git
+    cd Tutorial
     ```
 
 2. Crea un entorno virtual e instala `ipykernel`:
